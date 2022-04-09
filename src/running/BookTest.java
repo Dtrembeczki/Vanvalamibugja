@@ -26,7 +26,7 @@ public class BookTest {
 			System.out.println("Pages: ");
 			bookArray[i].setPages(input.nextInt());*/
 			
-			System.out.print("Title: ");
+			System.out.print("Title: ");		//összecsúszik a consolban
 			title = input.nextLine();
 			System.out.print("Author: ");
 			author = input.nextLine();
